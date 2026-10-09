@@ -1,4 +1,6 @@
 # RoboticArm_5DOF_servos
+<img width="250" height="312" alt="image" src="https://github.com/user-attachments/assets/5ee572e9-7fe3-4b25-8b6b-dd2ca2622c96" />
+
 This personal technical project is the first robotic system I developed.
 Its purpose is to explore and improve essential skills in robotics and mechatronics such as :
 - Mechanical design
